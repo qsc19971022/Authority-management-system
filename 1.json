@@ -1,0 +1,32 @@
+[
+  {
+    menuName:'北京城管',
+    path: '',
+    icon: 'el-icon-setting',
+    children:[
+      {menuName:'北京市城市管理综合行政执法局',path: '/users1', icon:'el-icon-user', children:[
+        {menuName:'北京市城市管理综合行政执法局',path: '/users1', icon:'el-icon-user', children:[]},
+        {menuName:'北京市城市管理综合行政执法局',path: '/users2', icon:'el-icon-user', children:[]},
+        {menuName:'北京市城市管理综合行政执法局',path: '/users3', icon:'el-icon-user', children:[]},
+        {menuName:'北京市城市管理综合行政执法局',path: '/users4', icon:'el-icon-user', children:[]},
+        {menuName:'北京市城市管理综合行政执法局',path: '/users5', icon:'el-icon-user', children:[]}
+      ]},
+      {menuName:'北京市城市管理综合行政执法局',path: '/users2', icon:'el-icon-user', children:[
+        {menuName:'北京市城市管理综合行政执法局',path: '/users11', icon:'el-icon-user', children:[]},
+        {menuName:'北京市城市管理综合行政执法局',path: '/users21', icon:'el-icon-user', children:[]},
+        {menuName:'北京市城市管理综合行政执法局',path: '/users31', icon:'el-icon-user', children:[]},
+        {menuName:'北京市城市管理综合行政执法局',path: '/users41', icon:'el-icon-user', children:[]},
+        {menuName:'北京市城市管理综合行政执法局',path: '/users51', icon:'el-icon-user', children:[]}
+      ]},
+      {menuName:'北京市城市管理综合行政执法局',path: '/users3', icon:'el-icon-user', children:[
+        {menuName:'综合行政执法局',path: '/users12', icon:'el-icon-user', children:[]},
+        {menuName:'综合行政执法局',path: '/users22', icon:'el-icon-user', children:[]},
+        {menuName:'综合行政执法局',path: '/users32', icon:'el-icon-user', children:[]},
+        {menuName:'综合行政执法局',path: '/users42', icon:'el-icon-user', children:[]},
+        {menuName:'综合行政执法局',path: '/users52', icon:'el-icon-user', children:[]}
+      ]},
+      {menuName:'北京市城市管理综合行政执法局',path: '/users4', icon:'el-icon-user', children:[]},
+      {menuName:'北京市城市管理综合行政执法局',path: '/users5', icon:'el-icon-user', children:[]}
+    ]
+  }
+]

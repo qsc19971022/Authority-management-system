@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99eb4fe5-7719-4feb-b519-6ab079194310" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/dictionaries/qisc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/iconfont/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/iconfont/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/iconfont/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/iconfont/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/iconfont/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/iconfont/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/iconfont/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/iconfont/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/iconfont/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/iconfont/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/qsc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/rights.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/roles.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/users.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-project/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/猫.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hJoxdFLhli2oc9EeqJ7UlgP0YJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="a.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/a.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="Node.js.a.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99eb4fe5-7719-4feb-b519-6ab079194310" name="Default Changelist" comment="" />
+      <created>1599738803839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599738803839</updated>
+      <workItem from="1599738807354" duration="49586000" />
+      <workItem from="1600260833487" duration="54043000" />
+      <workItem from="1603344041102" duration="10301000" />
+      <workItem from="1603759489397" duration="2000" />
+      <workItem from="1603793934880" duration="34000" />
+      <workItem from="1604282149627" duration="1576000" />
+      <workItem from="1604454637458" duration="3648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="199" key="#a.js" timestamp="1600504594593">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="535" y="199" key="#a.js/0.0.1680.1050@0.0.1680.1050" timestamp="1600504594593" />
+    <state width="1876" height="344" key="GridCell.Tab.0.bottom" timestamp="1604283773697">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="344" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1604283773697" />
+    <state width="1396" height="295" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1600395855825" />
+    <state width="1636" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1600598692109" />
+    <state width="1876" height="344" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.991@-1920.23.1920.991" timestamp="1603689188165" />
+    <state width="1876" height="344" key="GridCell.Tab.0.center" timestamp="1604283773695">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="344" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1604283773695" />
+    <state width="1396" height="295" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1600395855822" />
+    <state width="1636" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1600598692108" />
+    <state width="1876" height="344" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.991@-1920.23.1920.991" timestamp="1603689188163" />
+    <state width="1876" height="344" key="GridCell.Tab.0.left" timestamp="1604283773694">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="344" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1604283773694" />
+    <state width="1396" height="295" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1600395855821" />
+    <state width="1636" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1600598692106" />
+    <state width="1876" height="344" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.991@-1920.23.1920.991" timestamp="1603689188162" />
+    <state width="1876" height="344" key="GridCell.Tab.0.right" timestamp="1604283773696">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="344" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1604283773696" />
+    <state width="1396" height="295" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1600395855824" />
+    <state width="1636" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1600598692109" />
+    <state width="1876" height="344" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.991@-1920.23.1920.991" timestamp="1603689188164" />
+    <state x="-1459" y="179" key="SettingsEditor" timestamp="1603418911283">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1459" y="179" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603418911283" />
+    <state x="-1302" y="297" width="683" height="486" key="find.popup" timestamp="1604283010661">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1302" y="297" width="683" height="486" key="find.popup/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1604283010661" />
+    <state x="-1295" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1600669401870">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1295" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1600669401870" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/users.vue</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/users.vue</url>
+          <line>286</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/roles.vue</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/roles.vue</url>
+          <line>212</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
